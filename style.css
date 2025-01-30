@@ -209,7 +209,7 @@ h1 .scissors {
     }
   
     .nav-links {
-      flex-direction: column;
+   
     }
   
     .nav-links a {
@@ -248,7 +248,7 @@ h1 .scissors {
     }
   
     .nav-links a {
-      font-size: 12px;
+      font-size: 8px;
       padding: 6px 10px;
     }
   
