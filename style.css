@@ -186,7 +186,7 @@ h1 .scissors {
 }
 
   .container {
-    background-image: url(/assets/barbing-home.jpg);
+    background-image: url(./assets/barbing-home.jpg);
     background-size: cover;
     box-sizing: border-box;
     position: relative;
