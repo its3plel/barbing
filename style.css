@@ -160,6 +160,7 @@ h1 .scissors {
     background-color: white;
     color: black;
     border-radius: 13.65px;
+    width: fit-content;
   }
 
   .btn-secondary {
@@ -167,6 +168,7 @@ h1 .scissors {
     color: white;
     border: 1px solid white;
     border-radius: 13.65px;
+    width: fit-content;
   }
 
   .btn-primary .calendar {
@@ -227,7 +229,7 @@ h1 .scissors {
     }
   
     .buttons {
-      flex-direction: column;
+      
       gap: 15px;
     }
   
@@ -240,6 +242,7 @@ h1 .scissors {
         right: 5px;
         width: 0.8em;
     }
+
   }
   
   @media (max-width: 480px) {
@@ -262,7 +265,7 @@ h1 .scissors {
     }
   
     .btn {
-      font-size: 14px;
+      font-size: 8px;
       padding: 8px 15px;
     }
   
